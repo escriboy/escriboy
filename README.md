@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dudals0506})](https://solved.ac/{dudals0506}) -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escriboy&layout=compact)](https://github.com/escriboy/github-readme-stats)
+
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dudals0506)
