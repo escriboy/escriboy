@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudals0506)](https://solved.ac/dudals0506/) -->
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dudals0506})](https://solved.ac/{dudals0506}) -->
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dudals0506)
